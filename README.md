@@ -1,4 +1,4 @@
-### 👋 Hey there, I’m Kowshik Bh (@Kowshik-bh18)
+### 👋 Hey there, I’m Kowshik BH (@Kowshik-bh18)
 
 💻 **Full-Stack Developer | DSA Enthusiast | Curious Mind**
 

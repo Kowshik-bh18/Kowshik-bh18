@@ -17,7 +17,7 @@
 
 - 📫 **Reach me at**:  
   [📧 Email](mailto:kowshik.bh18@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/kowshik-bh18/)  
-  🌐 **Portfolio**: *Coming soon...*
+  🌐 **Portfolio**: (link)[https://kowshikportfolio-bzevbqhpr6fuwicgjzebwe.streamlit.app/]
 
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun fact**:  

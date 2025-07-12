@@ -16,7 +16,7 @@
   - DSA challenges and practice groups 🚀
 
 - 📫 **Reach me at**:  
-  [📧 Email](mailto:kowshik.bh18@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/kowshik-bh18/)  
+  [📧 Email](mailto:kowshik.bh18@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/kowshikbh)  
   🌐 **Portfolio**: [kowshik-bh-portfolio](https://kowshikportfolio-bzevbqhpr6fuwicgjzebwe.streamlit.app/)
 
 - 😄 **Pronouns**: He/Him  

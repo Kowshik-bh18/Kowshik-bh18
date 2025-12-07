@@ -18,8 +18,9 @@
 const kowshik = {
     location: "Karnataka, India 🇮🇳",
     education: "Final Year CSE Student",
-    currentFocus: "Building scalable web applications",
-    interests: ["Web Dev", "DSA", "DevOps", "AI/ML"],
+    currentFocus: "Building scalable web applications & exploring AI",
+    interests: ["Web Dev", "DSA", "DevOps", "LLMs & RAG"],
+    exploring: ["Google Cloud", "Docker", "AI Integration"],
     sports: ["Cricket 🏏", "Kabaddi 🤼"],
     funFact: "I debug like a detective 🕵️ and celebrate like a gamer 🎮",
     lifePhilosophy: "Code. Learn. Repeat. ♾️"
@@ -47,10 +48,11 @@ const kowshik = {
 <td width="50%" valign="top">
 
 ### 🌱 Currently Learning
-- ⚙️ DevOps & CI/CD Pipelines
+- ⚙️ DevOps & Docker Fundamentals
+- ☁️ Google Cloud Platform (GCP)
+- 🤖 LLM & RAG Architecture
 - 🐚 Advanced Bash Scripting
 - 🎯 System Design Patterns
-- 🤖 Machine Learning Basics
 
 </td>
 </tr>
@@ -78,9 +80,9 @@ const kowshik = {
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
 
@@ -94,6 +96,26 @@ const kowshik = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI & ML</b></summary>
+<br>
+
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </details>
 
@@ -191,17 +213,30 @@ const kowshik = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Current Focus Areas
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+<br><b>AI & LLMs</b>
+<br>Exploring RAG Architecture
+<br>Building AI-powered apps
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="60"/>
+<br><b>Cloud & DevOps</b>
+<br>Google Cloud Platform
+<br>Docker containerization
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/000000/web.png" width="60"/>
+<br><b>Full Stack Dev</b>
+<br>Django backends
+<br>Responsive frontends
+</td>
+</tr>
+</table>
 
 ---
 

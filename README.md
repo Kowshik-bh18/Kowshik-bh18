@@ -20,6 +20,7 @@ const kowshik = {
     education: "Final Year CSE Student",
     currentFocus: "Building scalable web applications",
     interests: ["Web Dev", "DSA", "DevOps", "AI/ML"],
+    sports: ["Cricket 🏏", "Kabaddi 🤼"],
     funFact: "I debug like a detective 🕵️ and celebrate like a gamer 🎮",
     lifePhilosophy: "Code. Learn. Repeat. ♾️"
 };
@@ -130,19 +131,6 @@ const kowshik = {
 
 ---
 
-## 🎯 Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs-blue?style=for-the-badge)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge)
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 🤝 Let's Collaborate On
 
 <table>
@@ -228,11 +216,11 @@ const kowshik = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ### 🎮 When I'm not coding, you'll find me:
-🎯 Solving DSA problems | 📚 Reading tech blogs | 🎵 Listening to lo-fi beats | 🎬 Watching tech documentaries
+🎯 Solving DSA problems | 📚 Reading tech blogs | 🏏 Playing Cricket | 🤼 Playing Kabaddi | 📺 Watching sports
 
 ---
 
-**💼 Open for opportunities and collaborations!**
+**💼 Open for internships, collaborations, and exciting opportunities!**
 
 <sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: December 2024</sub>
 

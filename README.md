@@ -1,51 +1,239 @@
-### 👋 Hey there, I’m Kowshik BH (@Kowshik-bh18)
+<div align="center">
 
-💻 **Full-Stack Developer | DSA Enthusiast | Curious Mind**
+# 👨‍💻 Kowshik BH
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A9;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
-- 👀 **Interested in**:  
-  Crafting responsive web applications, solving complex DSA problems, and exploring AI integrations.
+<img src="https://komarev.com/ghpvc/?username=Kowshik-bh18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Kowshik-bh18?label=Followers&style=social" alt="followers" />
+<img src="https://img.shields.io/github/stars/Kowshik-bh18?label=Stars&style=social" alt="stars" />
 
-- 🌱 **Currently learning**:  
-  DevOps fundamentals, Bash scripting, and improving both my frontend and backend development skills.
+</div>
 
-- 🤝 **Looking to collaborate on**:  
-  - Full-stack web development projects  
-  - Open-source contributions  
-  - DSA challenges and practice groups 🚀
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 📫 **Reach me at**:  
-  [📧 Email](mailto:kowshik.bh18@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/kowshikbh)  
-  🌐 **Portfolio**: [kowshik-bh-portfolio](https://kowshikportfolio-bzevbqhpr6fuwicgjzebwe.streamlit.app/)
+### 🚀 About Me
 
-- 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**:  
-  I debug like a detective and celebrate like a gamer when it finally works 🎉
+```javascript
+const kowshik = {
+    location: "Karnataka, India 🇮🇳",
+    education: "Final Year CSE Student",
+    currentFocus: "Building scalable web applications",
+    interests: ["Web Dev", "DSA", "DevOps", "AI/ML"],
+    funFact: "I debug like a detective 🕵️ and celebrate like a gamer 🎮",
+    lifePhilosophy: "Code. Learn. Repeat. ♾️"
+};
+```
 
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+<br clear="right"/>
 
 ---
 
-### 📊 GitHub Stats
+## 🎯 What I'm Up To
 
-![Kowshik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&show_icons=true&theme=radical)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowshik-bh18&layout=compact&theme=radical)
+### 🔭 Currently Working On
+- 🌆 Smart City Management System
+- 📱 Social Media Platform with OAuth
+- 🎨 Portfolio Enhancement Projects
+- 🧪 Experimenting with AI integrations
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Currently Learning
+- ⚙️ DevOps & CI/CD Pipelines
+- 🐚 Advanced Bash Scripting
+- 🎯 System Design Patterns
+- 🤖 Machine Learning Basics
+
+</td>
+</tr>
+</table>
 
 ---
 
-> _"Consistency beats motivation. One line of code a day keeps the bugs away."_
+## 💼 Tech Stack & Tools
 
-Let's build something amazing together!
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Technologies</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowshik-bh18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=FF6B6B&point=2E9EF7)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kowshik-bh18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs-blue?style=for-the-badge)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge)
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 🤝 Let's Collaborate On
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
+<br><b>Full Stack Projects</b>
+<br>Django • React • APIs
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="60"/>
+<br><b>Open Source</b>
+<br>Contributing to community
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<br><b>DSA Challenges</b>
+<br>Problem solving together
+</td>
+</tr>
+</table>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Kowshik-bh18/Smart_City_Management_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Smart_City_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+<a href="https://github.com/Kowshik-bh18/Social_Media_Platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Social_Media_Platform&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-kowshikbh18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshikbh18@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kowshik_BH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshikbh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kowshikportfolio-bzevbqhpr6fuwicgjzebwe.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kowshik-bh18)
+
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/Kowshik-bh18/Kowshik-bh18/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Consistency beats motivation. One line of code a day keeps the bugs away."
+
+### ⚡ Fun Fact
+*I believe every bug is just a feature waiting to be discovered! 🐛➡️✨*
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 🎮 When I'm not coding, you'll find me:
+🎯 Solving DSA problems | 📚 Reading tech blogs | 🎵 Listening to lo-fi beats | 🎬 Watching tech documentaries
+
+---
+
+**💼 Open for opportunities and collaborations!**
+
+<sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: December 2024</sub>
+
+</div>

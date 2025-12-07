@@ -40,7 +40,8 @@ const kowshik = {
 - 🌆 Smart City Management System
 - 📱 Social Media Platform with OAuth
 - 🎨 Portfolio Enhancement Projects
-- 🧪 Experimenting with AI integrations
+- 🤖 AI-Powered Recommendation Systems
+- 🧠 Natural Language Processing Projects
 
 </td>
 <td width="50%" valign="top">
@@ -159,13 +160,9 @@ const kowshik = {
 
 <div align="center">
 
-<a href="https://github.com/Kowshik-bh18/Smart_City_Management_System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Smart_City_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+[![Smart City Management System](https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Smart_City_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Kowshik-bh18/Smart_City_Management_System)
 
-<a href="https://github.com/Kowshik-bh18/Social_Media_Platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Social_Media_Platform&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+[![Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Social_Media_Platform&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Kowshik-bh18/Social_Media_Platform)
 
 </div>
 
@@ -198,7 +195,11 @@ const kowshik = {
 
 <div align="center">
 
-![Snake animation](https://github.com/Kowshik-bh18/Kowshik-bh18/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 

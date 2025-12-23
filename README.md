@@ -2,7 +2,7 @@
 
 # Kowshik BH
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A9;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Kowshik-bh18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Kowshik-bh18?label=Followers&style=social" alt="followers" />

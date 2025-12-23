@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Kowshik BH
+# Kowshik BH
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;DSA+Enthusiast+%F0%9F%A7%A9;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 About Me
+### About Me
 
 ```javascript
 const kowshik = {
@@ -21,8 +21,8 @@ const kowshik = {
     currentFocus: "Building scalable web applications & exploring AI",
     interests: ["Web Dev", "DSA", "DevOps", "LLMs & RAG"],
     exploring: ["Google Cloud", "Docker", "AI Integration"],
-    sports: ["Cricket 🏏", "Kabaddi 🤼"],
-    funFact: "I debug like a detective 🕵️ and celebrate like a gamer 🎮",
+    sports: ["Cricket", "Kabaddi"],
+    funFact: "I debug like a detective and celebrate like a gamer",
     lifePhilosophy: "Code. Learn. Repeat. ♾️"
 };
 ```
@@ -31,28 +31,28 @@ const kowshik = {
 
 ---
 
-## 🎯 What I'm Up To
+## What I'm Up To
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 Currently Working On
-- 🌆 Smart City Management System
-- 📱 Social Media Platform with OAuth
-- 🎨 Portfolio Enhancement Projects
-- 🤖 AI-Powered Recommendation Systems
-- 🧠 Natural Language Processing Projects
+### Currently Working On
+- Smart City Management System
+- Social Media Platform with OAuth
+- Portfolio Enhancement Projects
+- AI-Powered Recommendation Systems
+- Natural Language Processing Projects
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Currently Learning
-- ⚙️ DevOps & Docker Fundamentals
-- ☁️ Google Cloud Platform (GCP)
-- 🤖 LLM & RAG Architecture
-- 🐚 Advanced Bash Scripting
-- 🎯 System Design Patterns
+### Currently Learning
+- DevOps & Docker Fundamentals
+- Google Cloud Platform (GCP)
+- LLM & RAG Architecture
+- Advanced Bash Scripting
+- System Design Patterns
 
 </td>
 </tr>
@@ -60,10 +60,10 @@ const kowshik = {
 
 ---
 
-## 💼 Tech Stack & Tools
+## Tech Stack & Tools
 
 <details open>
-<summary><b>🎨 Frontend Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,7 +75,7 @@ const kowshik = {
 </details>
 
 <details open>
-<summary><b>⚙️ Backend Development</b></summary>
+<summary><b>Backend Development</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -87,7 +87,7 @@ const kowshik = {
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
+<summary><b>Tools & Technologies</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -100,7 +100,7 @@ const kowshik = {
 </details>
 
 <details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>Cloud & DevOps</b></summary>
 <br>
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -110,7 +110,7 @@ const kowshik = {
 </details>
 
 <details open>
-<summary><b>🤖 AI & ML</b></summary>
+<summary><b>AI & ML</b></summary>
 <br>
 
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -121,7 +121,7 @@ const kowshik = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -144,7 +144,7 @@ const kowshik = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -154,7 +154,7 @@ const kowshik = {
 
 ---
 
-## 🤝 Let's Collaborate On
+## Let's Collaborate On
 
 <table>
 <tr>
@@ -178,7 +178,7 @@ const kowshik = {
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -190,7 +190,7 @@ const kowshik = {
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -203,7 +203,7 @@ const kowshik = {
 
 ---
 
-## 💭 Dev Quote of the Day
+## Dev Quote of the Day
 
 <div align="center">
 
@@ -213,7 +213,7 @@ const kowshik = {
 
 ---
 
-## 🎯 Current Focus Areas
+## Current Focus Areas
 
 <table>
 <tr>
@@ -242,21 +242,21 @@ const kowshik = {
 
 <div align="center">
 
-### 💡 "Consistency beats motivation. One line of code a day keeps the bugs away."
+### "Consistency beats motivation. One line of code a day keeps the bugs away."
 
-### ⚡ Fun Fact
-*I believe every bug is just a feature waiting to be discovered! 🐛➡️✨*
+### Fun Fact
+*I believe every bug is just a feature waiting to be discovered! ✨*
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-### 🎮 When I'm not coding, you'll find me:
-🎯 Solving DSA problems | 📚 Reading tech blogs | 🏏 Playing Cricket | 🤼 Playing Kabaddi | 📺 Watching sports
+### When I'm not coding, you'll find me:
+Solving DSA problems | Reading tech blogs | Playing Cricket | Playing Kabaddi | Watching sports
 
 ---
 
-**💼 Open for internships, collaborations, and exciting opportunities!**
+**Open for internships, collaborations, and exciting opportunities!**
 
 <sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: December 2024</sub>
 

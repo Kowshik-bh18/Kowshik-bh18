@@ -123,12 +123,6 @@ const kowshik = {
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowshik-bh18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
 
 <div align="center">
   
@@ -139,16 +133,6 @@ const kowshik = {
 <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=FF6B6B&point=2E9EF7)
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kowshik-bh18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -175,18 +159,6 @@ const kowshik = {
 </td>
 </tr>
 </table>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-[![Smart City Management System](https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Smart_City_Management_System&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Kowshik-bh18/Smart_City_Management_System)
-
-[![Social Media Platform](https://github-readme-stats.vercel.app/api/pin/?username=Kowshik-bh18&repo=Social_Media_Platform&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Kowshik-bh18/Social_Media_Platform)
-
-</div>
 
 ---
 
@@ -258,6 +230,6 @@ Solving DSA problems | Reading tech blogs | Playing Cricket | Playing Kabaddi | 
 
 **Open for internships, collaborations, and exciting opportunities!**
 
-<sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: December 2024</sub>
+<sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: February 2026</sub>
 
 </div>

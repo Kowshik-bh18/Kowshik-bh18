@@ -131,11 +131,11 @@ const kowshik = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=FF6B6B&text_color=FFFFFF)&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowshik-bh18&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=FF6B6B&text_color=FFFFFF" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kowshik-bh18&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF" height="180"/>
 
 </div>
-
 ---
 
 ## Let's Collaborate On

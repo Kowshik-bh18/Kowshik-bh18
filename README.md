@@ -131,9 +131,10 @@ const kowshik = {
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Kowshik-bh18?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&config.timezone=Asia%2FKolkata&config.padding=10&config.display=large)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 ---
 
 ## Let's Collaborate On

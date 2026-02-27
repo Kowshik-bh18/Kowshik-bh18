@@ -125,8 +125,8 @@ const kowshik = {
 
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 

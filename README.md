@@ -123,16 +123,16 @@ const kowshik = {
 
 ## GitHub Analytics
 
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9EF7&line=FF6B6B&point=2E9EF7)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0D1117&title_color=2E9EF7&icon_color=FF6B6B&text_color=FFFFFF)&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kowshik-bh18&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
 
 </div>
 

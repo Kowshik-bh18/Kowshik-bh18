@@ -229,6 +229,6 @@ Solving DSA problems | Reading tech blogs | Playing Cricket | Playing Kabaddi | 
 
 **Open for internships, collaborations, and exciting opportunities!**
 
-<sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: February 2026</sub>
+<sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: March 2026</sub>
 
 </div>

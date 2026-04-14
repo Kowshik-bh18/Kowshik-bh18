@@ -223,7 +223,7 @@ const kowshik = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ### When I'm not coding, you'll find me:
-Solving DSA problems | Reading tech blogs | Playing Cricket | Playing Kabaddi | Watching sports
+            Reading tech blogs | Playing Cricket | Playing Kabaddi | Watching sports
 
 ---
 

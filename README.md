@@ -1,123 +1,92 @@
 <div align="center">
 
-# Kowshik BH
+# Hi, I'm Kowshik BH 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+### Backend-Focused Full Stack Developer | GenAI & RAG Systems
 
-<img src="https://komarev.com/ghpvc/?username=Kowshik-bh18&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Kowshik-bh18?label=Followers&style=social" alt="followers" />
-<img src="https://img.shields.io/github/stars/Kowshik-bh18?label=Stars&style=social" alt="stars" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automation+Engineer+Intern+%40+Guidewire;Backend+%26+Django+Developer;RAG+%2F+LLM+Systems+Builder;Final+Year+CSE+Student)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kowshikbh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kowshikbh18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Kowshik-bh18"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://kowshikportfolio-bzevbqhpr6fuwicgjzebwe.streamlit.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Kowshik-bh18&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+---
 
-### About Me
+## About Me
 
-```javascript
-const kowshik = {
-    location: "Karnataka, India 🇮🇳",
-    education: "Final Year CSE Student",
-    currentFocus: "Building scalable web applications & exploring AI",
-    interests: ["Web Dev", "DSA", "DevOps", "LLMs & RAG"],
-    exploring: ["Google Cloud", "Docker", "AI Integration"],
-    sports: ["Cricket", "Kabaddi"],
-    funFact: "I debug like a detective and celebrate like a gamer",
-    lifePhilosophy: "Code. Learn. Repeat. ♾️"
-};
-```
+I'm a final-year Computer Science undergraduate (CGPA 9.03) with hands-on backend engineering experience across two internships — building automation tooling in an enterprise DevOps environment and shipping GenAI/RAG-powered applications. I enjoy designing clean APIs, optimizing systems, and turning LLMs into practical, production-ready features.
 
-<br clear="right"/>
+- 🔭 Currently working as an **Automation Engineer Intern @ Guidewire Software**
+- 🧠 Previously built **RAG-based GenAI applications** as an intern at Edufu Technologies (CampusPe)
+- 🌱 Deepening my knowledge of **system design, Kubernetes, and cloud-native deployment**
+- 🎯 Open to **backend / full-stack engineering roles** and impactful collaborations
 
 ---
 
-## What I'm Up To
+## Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Automation Engineer Intern** — Guidewire Software · *Jun 2026 – Present*
+Built Python & Bash automation for enterprise workflows; worked across AWS, Kubernetes, CI/CD, JFrog Artifactory, and SonarQube; supported debugging, deployment, and production issues in an Agile team using Jira & Confluence.
 
-### Currently Working On
-- Smart City Management System
-- Social Media Platform with OAuth
-- Portfolio Enhancement Projects
-- AI-Powered Recommendation Systems
-- Natural Language Processing Projects
-
-</td>
-<td width="50%" valign="top">
-
-### Currently Learning
-- DevOps & Docker Fundamentals
-- Google Cloud Platform (GCP)
-- LLM & RAG Architecture
-- Advanced Bash Scripting
-- System Design Patterns
-
-</td>
-</tr>
-</table>
+**Generative AI Intern** — Edufu Technologies (CampusPe) · *Feb 2026 – May 2026*
+Built LLM/RAG-based systems end-to-end — backend services, REST APIs, and prompt engineering to improve response quality and relevance.
 
 ---
 
-## Tech Stack & Tools
+## Featured Projects
 
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br>
+| Project | Stack | Highlights |
+|---|---|---|
+| **[AIML-Based Roadmap Generator](#)** | Django · LLM · RAG · Pandas · NumPy | AI-driven, personalized skill-development roadmaps with real-time RAG-based recommendations |
+| **[Dormitory Management System](#)** | Django · JavaScript · SQLite | Full-stack CRUD system with an integrated AI chatbot for user support |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+*(Replace `#` above with your live demo links.)*
 
-</details>
+---
 
-<details open>
-<summary><b>Backend Development</b></summary>
-<br>
+## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Languages & Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
-</details>
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<details open>
-<summary><b>Tools & Technologies</b></summary>
-<br>
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**AI / GenAI**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square&logo=databricks&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>Cloud & DevOps</b></summary>
-<br>
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>AI & ML</b></summary>
-<br>
-
-![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-
-</details>
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
@@ -125,110 +94,21 @@ const kowshik = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Kowshik-bh18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Kowshik-bh18&theme=tokyonight&hide_border=true" height="165"/>
 
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Let's Collaborate On
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
-<br><b>Full Stack Projects</b>
-<br>Django • React • APIs
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/github.png" width="60"/>
-<br><b>Open Source</b>
-<br>Contributing to community
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-<br><b>DSA Challenges</b>
-<br>Problem solving together
-</td>
-</tr>
-</table>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-kowshikbh18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kowshikbh18@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kowshik_BH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kowshikbh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kowshikportfolio-bzevbqhpr6fuwicgjzebwe.streamlit.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kowshik-bh18)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="98%"/>
 
 </div>
 
 ---
 
-## Dev Quote of the Day
-
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**Education:** B.E. in Computer Science & Engineering, CMR Institute of Technology, Bengaluru (2022 – 2026) · CGPA 9.03
 
-</div>
+*Open to internships, full-time backend/full-stack roles, and interesting collaborations.*
 
----
-
-## Current Focus Areas
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-<br><b>AI & LLMs</b>
-<br>Exploring RAG Architecture
-<br>Building AI-powered apps
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="60"/>
-<br><b>Cloud & DevOps</b>
-<br>Google Cloud Platform
-<br>Docker containerization
-</td>
-<td width="33%" align="center">
-<img src="https://img.icons8.com/color/96/000000/web.png" width="60"/>
-<br><b>Full Stack Dev</b>
-<br>Django backends
-<br>Responsive frontends
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### "Consistency beats motivation. One line of code a day keeps the bugs away."
-
-### Fun Fact
-*I believe every bug is just a feature waiting to be discovered! ✨*
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-### When I'm not coding, you'll find me:
-            Reading tech blogs | Playing Cricket | Playing Kabaddi | Watching sports
-
----
-
-**Open for internships, collaborations, and exciting opportunities!**
-
-<sub>⭐ From [Kowshik-bh18](https://github.com/Kowshik-bh18) | Last Updated: March 2026</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
 
 </div>

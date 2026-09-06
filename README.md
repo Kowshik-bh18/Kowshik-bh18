@@ -4,7 +4,7 @@
 
 ### Backend-Focused Full Stack Developer | GenAI & RAG Systems
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automation+Engineer+Intern+%40+Guidewire;Backend+%26+Django+Developer;RAG+%2F+LLM+Systems+Builder;Final+Year+CSE+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Automation+Engineer+Intern+%40+Guidewire;Backend+%26+Django+Developer;RAG+%2F+LLM+Systems+Builder;Recent+CSE+Graduate)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kowshikbh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science undergraduate (CGPA 9.03) with hands-on backend engineering experience across two internships — building automation tooling in an enterprise DevOps environment and shipping GenAI/RAG-powered applications. I enjoy designing clean APIs, optimizing systems, and turning LLMs into practical, production-ready features.
+I'm a recent Computer Science graduate (CGPA 9.03) with hands-on backend engineering experience across two internships — building automation tooling in an enterprise DevOps environment and shipping GenAI/RAG-powered applications. I enjoy designing clean APIs, optimizing systems, and turning LLMs into practical, production-ready features.
 
 - 🔭 Currently working as an **Automation Engineer Intern @ Guidewire Software**
 - 🧠 Previously built **RAG-based GenAI applications** as an intern at Edufu Technologies (CampusPe)
@@ -105,7 +105,7 @@ Built LLM/RAG-based systems end-to-end — backend services, REST APIs, and prom
 
 <div align="center">
 
-**Education:** B.E. in Computer Science & Engineering, CMR Institute of Technology, Bengaluru (2022 – 2026) · CGPA 9.03
+**Education:** B.E. in Computer Science & Engineering, CMR Institute of Technology, Bengaluru (2022 – 2026, Graduated) · CGPA 9.03
 
 *Open to internships, full-time backend/full-stack roles, and interesting collaborations.*
 

@@ -90,6 +90,60 @@ Built LLM/RAG-based systems end-to-end — backend services, REST APIs, and prom
 
 ---
 
+## Currently Exploring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Deepening**
+- System Design & Scalable Architecture
+- Kubernetes & Container Orchestration
+- Advanced RAG Pipelines & Vector Search
+
+</td>
+<td width="50%" valign="top">
+
+**Curious About**
+- Multi-Agent LLM Workflows
+- Cloud-Native CI/CD Practices
+- Developer Tooling & DX
+
+</td>
+</tr>
+</table>
+
+---
+
+## Beyond the Code
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/cricket.png" width="55"/><br/>
+<b>Cricket</b>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/sports-mode.png" width="55"/><br/>
+<b>Kabaddi</b>
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/color/96/book-shelf.png" width="55"/><br/>
+<b>Tech Blogs</b>
+</td>
+</tr>
+</table>
+
+> 🐞 **Fun fact:** I treat every bug like a puzzle — the messier the traceback, the more satisfying the fix.
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -99,6 +153,18 @@ Built LLM/RAG-based systems end-to-end — backend services, REST APIs, and prom
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kowshik-bh18&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true&theme=tokyo-night" width="98%"/>
 
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kowshik-bh18&theme=tokyonight&no-frame=true&row=1&column=6" width="98%"/>
+
+</div>
+
+<!--
+  Contribution snake — requires a one-time GitHub Actions setup (Platane/snk) on your profile repo.
+  Once set up, it renders an animated snake eating your contribution graph.
+-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Kowshik-bh18/Kowshik-bh18/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 </div>
 
 ---

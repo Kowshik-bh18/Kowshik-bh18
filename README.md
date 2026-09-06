@@ -44,10 +44,8 @@ Built LLM/RAG-based systems end-to-end — backend services, REST APIs, and prom
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[AIML-Based Roadmap Generator](#)** | Django · LLM · RAG · Pandas · NumPy | AI-driven, personalized skill-development roadmaps with real-time RAG-based recommendations |
-| **[Dormitory Management System](#)** | Django · JavaScript · SQLite | Full-stack CRUD system with an integrated AI chatbot for user support |
-
-*(Replace `#` above with your live demo links.)*
+| **[AIML-Based Roadmap Generator](https://github.com/Kowshik-bh18/AIML_Based_Roadmap_Generator_for_Skill_Development)** | Django · LLM · RAG · Pandas · NumPy | AI-driven, personalized skill-development roadmaps with real-time RAG-based recommendations |
+| **[Dormitory Management System](https://github.com/Kowshik-bh18/Dormitory_Management_System)** | Django · JavaScript · SQLite | Full-stack CRUD system with an integrated AI chatbot for user support |
 
 ---
 
